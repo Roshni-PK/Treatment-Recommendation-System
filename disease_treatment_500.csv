@@ -1,0 +1,501 @@
+Disease,Treatment
+Tularemia,Administer artemisinin-based combination therapy 5% cream three times daily. Monitor renal function. Recommend strict infection control.
+Lassa Fever,Initiate amoxicillin therapy as per guidelines. Monitor for renal function.
+Listeriosis,Prescribe sumatriptan and recommend trigger avoidance. Monitor thyroid levels.
+Allergic Rhinitis,Prescribe ethambutol and recommend strict infection control. Monitor renal function.
+Hypertension,Initiate metronidazole therapy as per guidelines. Monitor for platelet count.
+Measles,Administer rifampin 250 mg as needed. Monitor blood glucose. Recommend trigger avoidance.
+Campylobacteriosis,Administer amoxicillin 1 g once daily. Monitor liver function. Recommend strict infection control.
+Shingles,Initiate isoniazid therapy as per guidelines. Monitor for blood glucose.
+Anthrax,Prescribe oseltamivir and recommend follow-up testing. Monitor renal function.
+Tularemia,Prescribe sumatriptan and recommend strict infection control. Monitor liver function.
+Leprosy,Recommend strict infection control. Provide pain management.
+Hantavirus,Initiate acyclovir therapy as per guidelines. Monitor for renal function.
+Ebola Virus Disease,Initiate isoniazid therapy as per guidelines. Monitor for platelet count.
+Hyperthyroidism,Prescribe oseltamivir at 20 mg. Counsel patient on follow-up testing.
+Pertussis,Recommend symptom monitoring. Provide nutritional support.
+Meningitis,Initiate oseltamivir therapy as per guidelines. Monitor for blood glucose.
+Q Fever,Recommend strict infection control. Provide antipyretics and hydration.
+Schistosomiasis,Administer metronidazole 800 mg once daily. Monitor renal function. Recommend adequate hydration.
+Bronchitis,Prescribe hydrocortisone cream and recommend strict infection control. Monitor renal function.
+Candidiasis,Administer influenza vaccine if indicated. Advise strict infection control.
+Mycoplasma Pneumonia,Prescribe isoniazid and recommend adequate hydration. Monitor thyroid levels.
+Otitis Media,Recommend strict infection control. Provide antipyretics and hydration.
+Campylobacteriosis,Prescribe amoxicillin and recommend symptom monitoring. Monitor liver function.
+Shingles,Prescribe hydrocortisone cream and recommend trigger avoidance. Monitor renal function.
+Ascariasis,Initiate doxycycline therapy as per guidelines. Monitor for thyroid levels.
+Hookworm,Prescribe amoxicillin and recommend symptom monitoring. Monitor thyroid levels.
+Abscess,Prescribe sumatriptan at 10 mg. Counsel patient on strict infection control.
+Pediculosis,Administer pyrazinamide 2.4 million units twice daily. Monitor liver function. Recommend trigger avoidance.
+Blastomycosis,Prescribe oseltamivir at 20 mg. Counsel patient on strict infection control.
+Conjunctivitis,Initiate artemisinin-based combination therapy therapy as per guidelines. Monitor for thyroid levels.
+Cluster Headache,Prescribe ciprofloxacin at 1 g. Counsel patient on trigger avoidance.
+COVID-19,Administer levothyroxine 10 mg as needed. Monitor platelet count. Recommend strict infection control.
+Cellulitis,Administer methimazole 250 mg three times daily. Monitor thyroid levels. Recommend adequate hydration.
+Brucellosis,Administer ethambutol 2.4 million units once daily. Monitor blood glucose. Recommend strict infection control.
+Candidiasis,Initiate acyclovir therapy as per guidelines. Monitor for blood glucose.
+Brucellosis,Administer hepatitis B vaccine if indicated. Advise trigger avoidance.
+Gonorrhea,Administer cephalexin 800 mg once daily. Monitor renal function. Recommend follow-up testing.
+Mycoplasma Pneumonia,Administer hepatitis B vaccine if indicated. Advise adequate hydration.
+Herpes Simplex,Recommend symptom monitoring. Provide pain management.
+Tuberculosis,Administer ethambutol 5% cream twice daily. Monitor liver function. Recommend symptom monitoring.
+Allergic Rhinitis,Prescribe pyrazinamide and recommend adequate hydration. Monitor platelet count.
+Salmonellosis,Prescribe sumatriptan at 500 mg. Counsel patient on trigger avoidance.
+GERD,Administer ciprofloxacin 800 mg twice daily. Monitor blood glucose. Recommend strict infection control.
+Chlamydia,Administer rabies vaccine if indicated. Advise strict infection control.
+Otitis Externa,Prescribe permethrin cream and recommend strict infection control. Monitor blood glucose.
+Pneumonia,Initiate cephalexin therapy as per guidelines. Monitor for blood glucose.
+Asthma,Prescribe doxycycline and recommend adequate hydration. Monitor blood glucose.
+Hantavirus,Administer hepatitis B vaccine if indicated. Advise adequate hydration.
+Ebola Virus Disease,Recommend symptom monitoring. Provide nutritional support.
+Anthrax,Administer influenza vaccine if indicated. Advise symptom monitoring.
+Malaria,Administer tetanus toxoid if indicated. Advise adequate hydration.
+Psittacosis,Administer ciprofloxacin 2.4 million units once daily. Monitor thyroid levels. Recommend symptom monitoring.
+Rubella,Prescribe doxycycline at 20 mg. Counsel patient on trigger avoidance.
+Rubella,Administer ciprofloxacin 5% cream three times daily. Monitor thyroid levels. Recommend trigger avoidance.
+Cholera,Initiate doxycycline therapy as per guidelines. Monitor for renal function.
+Hypertension,Prescribe ciprofloxacin at 1 g. Counsel patient on adequate hydration.
+Ascariasis,Administer influenza vaccine if indicated. Advise strict infection control.
+Leprosy,Prescribe acyclovir at 500 mg. Counsel patient on strict infection control.
+Tuberculosis,Administer influenza vaccine if indicated. Advise follow-up testing.
+Botulism,Prescribe benzoyl peroxide and recommend strict infection control. Monitor thyroid levels.
+Candidiasis,Prescribe fluconazole at 2.4 million units. Counsel patient on symptom monitoring.
+Listeriosis,Recommend trigger avoidance. Provide antipyretics and hydration.
+Cluster Headache,Prescribe rifampin at 100 mg. Counsel patient on follow-up testing.
+Mumps,Initiate ethambutol therapy as per guidelines. Monitor for thyroid levels.
+Strongyloidiasis,Administer isoniazid 5% cream every 6 hours. Monitor thyroid levels. Recommend trigger avoidance.
+Rosacea,Recommend symptom monitoring. Provide pain management.
+Hookworm,Prescribe methimazole at 2.4 million units. Counsel patient on trigger avoidance.
+Hantavirus,Initiate acyclovir therapy as per guidelines. Monitor for liver function.
+Acne,Initiate permethrin cream therapy as per guidelines. Monitor for blood glucose.
+Ascariasis,Administer sumatriptan 500 mg once daily. Monitor renal function. Recommend adequate hydration.
+Pediculosis,Prescribe artemisinin-based combination therapy at 100 mg. Counsel patient on follow-up testing.
+Hookworm,Prescribe fluconazole and recommend trigger avoidance. Monitor platelet count.
+Pyelonephritis,Administer levothyroxine 500 mg once daily. Monitor platelet count. Recommend follow-up testing.
+Sinusitis,Administer tetanus toxoid if indicated. Advise adequate hydration.
+Measles,Initiate isoniazid therapy as per guidelines. Monitor for blood glucose.
+Hypothyroidism,Initiate isoniazid therapy as per guidelines. Monitor for thyroid levels.
+Hookworm,Initiate levothyroxine therapy as per guidelines. Monitor for renal function.
+Pediculosis,Initiate levothyroxine therapy as per guidelines. Monitor for liver function.
+Schistosomiasis,Prescribe isoniazid at 5% cream. Counsel patient on trigger avoidance.
+Diphtheria,Prescribe azithromycin at 1 g. Counsel patient on trigger avoidance.
+Hantavirus,Prescribe hydrocortisone cream and recommend symptom monitoring. Monitor liver function.
+Salmonellosis,Prescribe ciprofloxacin at 800 mg. Counsel patient on trigger avoidance.
+Coccidioidomycosis,Administer hepatitis B vaccine if indicated. Advise symptom monitoring.
+Peptic Ulcer,Prescribe doxycycline and recommend strict infection control. Monitor platelet count.
+Histoplasmosis,Initiate fluconazole therapy as per guidelines. Monitor for blood glucose.
+Impetigo,Recommend strict infection control. Provide nutritional support.
+Tuberculosis,Administer influenza vaccine if indicated. Advise adequate hydration.
+Strongyloidiasis,Initiate permethrin cream therapy as per guidelines. Monitor for blood glucose.
+Leprosy,Initiate azithromycin therapy as per guidelines. Monitor for renal function.
+Pediculosis,Administer sumatriptan 20 mg as needed. Monitor platelet count. Recommend trigger avoidance.
+Giardiasis,Initiate ciprofloxacin therapy as per guidelines. Monitor for platelet count.
+Psoriasis,Prescribe doxycycline and recommend strict infection control. Monitor renal function.
+Allergic Rhinitis,Administer ethambutol 10 mg as needed. Monitor thyroid levels. Recommend symptom monitoring.
+Varicella,Prescribe ciprofloxacin and recommend symptom monitoring. Monitor renal function.
+Hyperthyroidism,Administer hepatitis B vaccine if indicated. Advise adequate hydration.
+Pyelonephritis,Administer influenza vaccine if indicated. Advise follow-up testing.
+Herpes Simplex,Administer influenza vaccine if indicated. Advise trigger avoidance.
+Histoplasmosis,Recommend strict infection control. Provide antipyretics and hydration.
+Zika Virus,Administer oseltamivir 10 mg as needed. Monitor thyroid levels. Recommend symptom monitoring.
+Tularemia,Initiate azithromycin therapy as per guidelines. Monitor for thyroid levels.
+Allergic Rhinitis,Recommend trigger avoidance. Provide antipyretics and hydration.
+Hypertension,Recommend trigger avoidance. Provide antipyretics and hydration.
+Rabies,Administer doxycycline 2.4 million units once daily. Monitor platelet count. Recommend follow-up testing.
+Psoriasis,Recommend follow-up testing. Provide antipyretics and hydration.
+Q Fever,Administer rabies vaccine if indicated. Advise adequate hydration.
+Rosacea,Administer pyrazinamide 250 mg three times daily. Monitor thyroid levels. Recommend symptom monitoring.
+Strongyloidiasis,Initiate cephalexin therapy as per guidelines. Monitor for renal function.
+Otitis Media,Recommend adequate hydration. Provide nutritional support.
+Lassa Fever,Administer tetanus toxoid if indicated. Advise follow-up testing.
+Rubella,Administer hepatitis B vaccine if indicated. Advise strict infection control.
+Rabies,Administer permethrin cream 10 mg every 6 hours. Monitor thyroid levels. Recommend strict infection control.
+GERD,Administer rabies vaccine if indicated. Advise adequate hydration.
+Yersiniosis,Prescribe ethambutol at 100 mg. Counsel patient on symptom monitoring.
+Legionnaires' Disease,Administer permethrin cream 2.4 million units every 6 hours. Monitor blood glucose. Recommend follow-up testing.
+Scabies,Prescribe ciprofloxacin and recommend adequate hydration. Monitor thyroid levels.
+Conjunctivitis,Prescribe ciprofloxacin and recommend adequate hydration. Monitor blood glucose.
+HIV,Initiate acyclovir therapy as per guidelines. Monitor for thyroid levels.
+Otitis Externa,Administer methimazole 20 mg as needed. Monitor renal function. Recommend follow-up testing.
+Hookworm,Prescribe fluconazole and recommend follow-up testing. Monitor liver function.
+Sinusitis,Initiate isoniazid therapy as per guidelines. Monitor for blood glucose.
+Hepatitis B,Initiate metronidazole therapy as per guidelines. Monitor for platelet count.
+Dengue Fever,Prescribe rifampin and recommend adequate hydration. Monitor platelet count.
+Impetigo,Administer rabies vaccine if indicated. Advise symptom monitoring.
+Q Fever,Prescribe amoxicillin and recommend trigger avoidance. Monitor liver function.
+Hypertension,Recommend strict infection control. Provide nutritional support.
+Conjunctivitis,Recommend follow-up testing. Provide antipyretics and hydration.
+Blastomycosis,Prescribe rifampin at 2.4 million units. Counsel patient on follow-up testing.
+Measles,Administer pyrazinamide 800 mg once daily. Monitor platelet count. Recommend follow-up testing.
+Norovirus Infection,Prescribe hydrocortisone cream at 500 mg. Counsel patient on symptom monitoring.
+Tularemia,Initiate ciprofloxacin therapy as per guidelines. Monitor for renal function.
+Filariasis,Administer metronidazole 1 g as needed. Monitor renal function. Recommend follow-up testing.
+Mycoplasma Pneumonia,Prescribe sumatriptan and recommend follow-up testing. Monitor renal function.
+Botulism,Initiate fluconazole therapy as per guidelines. Monitor for renal function.
+Syphilis,Administer isoniazid 2.4 million units once daily. Monitor liver function. Recommend follow-up testing.
+Peptic Ulcer,Initiate azithromycin therapy as per guidelines. Monitor for liver function.
+GERD,Administer hepatitis B vaccine if indicated. Advise trigger avoidance.
+Candidal Vaginitis,Prescribe methimazole at 500 mg. Counsel patient on strict infection control.
+Hyperthyroidism,Prescribe artemisinin-based combination therapy and recommend strict infection control. Monitor blood glucose.
+Otitis Externa,Recommend adequate hydration. Provide antipyretics and hydration.
+Giardiasis,Recommend strict infection control. Provide antipyretics and hydration.
+Amoebiasis,Prescribe artemisinin-based combination therapy and recommend follow-up testing. Monitor thyroid levels.
+Listeriosis,Initiate azithromycin therapy as per guidelines. Monitor for platelet count.
+Shingles,Administer influenza vaccine if indicated. Advise trigger avoidance.
+Onchocerciasis,Administer influenza vaccine if indicated. Advise strict infection control.
+Impetigo,Initiate permethrin cream therapy as per guidelines. Monitor for thyroid levels.
+Cystitis,Prescribe fluconazole and recommend adequate hydration. Monitor thyroid levels.
+Hypertension,Initiate metronidazole therapy as per guidelines. Monitor for platelet count.
+Rabies,Recommend symptom monitoring. Provide nutritional support.
+Zika Virus,Administer tetanus toxoid if indicated. Advise adequate hydration.
+Hyperthyroidism,Recommend trigger avoidance. Provide antipyretics and hydration.
+Asthma,Prescribe fluconazole at 5% cream. Counsel patient on adequate hydration.
+Yellow Fever,Prescribe rifampin and recommend adequate hydration. Monitor liver function.
+Tetanus,Initiate permethrin cream therapy as per guidelines. Monitor for blood glucose.
+Cluster Headache,Prescribe methimazole at 500 mg. Counsel patient on follow-up testing.
+Anthrax,Initiate ethambutol therapy as per guidelines. Monitor for platelet count.
+Hyperthyroidism,Recommend adequate hydration. Provide oxygen therapy.
+Marburg Virus Disease,Administer artemisinin-based combination therapy 1 g once daily. Monitor renal function. Recommend strict infection control.
+Bacterial Vaginosis,Administer artemisinin-based combination therapy 10 mg every 6 hours. Monitor renal function. Recommend strict infection control.
+Onchocerciasis,Administer influenza vaccine if indicated. Advise follow-up testing.
+Sinusitis,Recommend follow-up testing. Provide nutritional support.
+Leprosy,Administer permethrin cream 100 mg as needed. Monitor thyroid levels. Recommend symptom monitoring.
+Hypothyroidism,Prescribe ethambutol at 20 mg. Counsel patient on follow-up testing.
+Rosacea,Recommend trigger avoidance. Provide oxygen therapy.
+Gonorrhea,Prescribe acyclovir and recommend symptom monitoring. Monitor renal function.
+Anthrax,Prescribe azithromycin at 100 mg. Counsel patient on trigger avoidance.
+Q Fever,Recommend follow-up testing. Provide nutritional support.
+Lassa Fever,Administer isoniazid 2.4 million units twice daily. Monitor blood glucose. Recommend follow-up testing.
+COVID-19,Recommend trigger avoidance. Provide pain management.
+Ebola Virus Disease,Administer hepatitis B vaccine if indicated. Advise symptom monitoring.
+COVID-19,Initiate metronidazole therapy as per guidelines. Monitor for platelet count.
+Campylobacteriosis,Initiate pyrazinamide therapy as per guidelines. Monitor for platelet count.
+Varicella,Initiate ethambutol therapy as per guidelines. Monitor for liver function.
+Diabetes,Administer rabies vaccine if indicated. Advise strict infection control.
+Ebola Virus Disease,Prescribe acyclovir and recommend strict infection control. Monitor thyroid levels.
+Polio,Initiate permethrin cream therapy as per guidelines. Monitor for liver function.
+Syphilis,Recommend strict infection control. Provide oxygen therapy.
+Cluster Headache,Administer ciprofloxacin 250 mg as needed. Monitor platelet count. Recommend trigger avoidance.
+Brucellosis,Prescribe methimazole at 20 mg. Counsel patient on strict infection control.
+Influenza,Initiate isoniazid therapy as per guidelines. Monitor for platelet count.
+Measles,Prescribe ciprofloxacin at 10 mg. Counsel patient on trigger avoidance.
+Varicella,Initiate benzoyl peroxide therapy as per guidelines. Monitor for renal function.
+Tuberculosis,Prescribe hydrocortisone cream and recommend trigger avoidance. Monitor liver function.
+Bronchitis,Prescribe fluconazole at 10 mg. Counsel patient on follow-up testing.
+Giardiasis,Recommend trigger avoidance. Provide nutritional support.
+Hepatitis B,Administer isoniazid 1 g twice daily. Monitor blood glucose. Recommend adequate hydration.
+Migraine,Administer ciprofloxacin 10 mg three times daily. Monitor thyroid levels. Recommend follow-up testing.
+Dengue Fever,Recommend trigger avoidance. Provide pain management.
+Varicella,Prescribe ciprofloxacin at 250 mg. Counsel patient on follow-up testing.
+Hyperthyroidism,Initiate methimazole therapy as per guidelines. Monitor for platelet count.
+Meningitis,Initiate artemisinin-based combination therapy therapy as per guidelines. Monitor for platelet count.
+Pertussis,Recommend trigger avoidance. Provide antipyretics and hydration.
+Ascariasis,Administer rifampin 800 mg once daily. Monitor liver function. Recommend symptom monitoring.
+Scabies,Prescribe metronidazole and recommend symptom monitoring. Monitor liver function.
+Rotavirus Infection,Initiate hydrocortisone cream therapy as per guidelines. Monitor for liver function.
+Eczema,Administer doxycycline 500 mg once daily. Monitor blood glucose. Recommend trigger avoidance.
+Ringworm,Administer doxycycline 5% cream once daily. Monitor liver function. Recommend symptom monitoring.
+HIV,Initiate rifampin therapy as per guidelines. Monitor for blood glucose.
+HIV,Administer tetanus toxoid if indicated. Advise follow-up testing.
+Bacterial Vaginosis,Administer azithromycin 800 mg once daily. Monitor blood glucose. Recommend follow-up testing.
+Salmonellosis,Initiate isoniazid therapy as per guidelines. Monitor for blood glucose.
+Tularemia,Administer azithromycin 20 mg once daily. Monitor platelet count. Recommend strict infection control.
+Anthrax,Prescribe pyrazinamide and recommend strict infection control. Monitor liver function.
+Hepatitis B,Administer rabies vaccine if indicated. Advise symptom monitoring.
+Zika Virus,Prescribe benzoyl peroxide at 800 mg. Counsel patient on symptom monitoring.
+Asthma,Prescribe oseltamivir and recommend trigger avoidance. Monitor thyroid levels.
+Candidiasis,Prescribe pyrazinamide and recommend follow-up testing. Monitor blood glucose.
+Migraine,Administer pyrazinamide 100 mg every 6 hours. Monitor liver function. Recommend symptom monitoring.
+Rubella,Administer rabies vaccine if indicated. Advise symptom monitoring.
+Eczema,Prescribe cephalexin at 10 mg. Counsel patient on trigger avoidance.
+Rubella,Prescribe methimazole at 250 mg. Counsel patient on follow-up testing.
+Rabies,Administer tetanus toxoid if indicated. Advise follow-up testing.
+GERD,Administer rabies vaccine if indicated. Advise trigger avoidance.
+Diphtheria,Prescribe ciprofloxacin at 100 mg. Counsel patient on strict infection control.
+Bronchitis,Recommend symptom monitoring. Provide antipyretics and hydration.
+Lassa Fever,Administer rabies vaccine if indicated. Advise symptom monitoring.
+Bronchitis,Administer levothyroxine 5% cream three times daily. Monitor platelet count. Recommend follow-up testing.
+Q Fever,Administer influenza vaccine if indicated. Advise follow-up testing.
+Sinusitis,Prescribe amoxicillin and recommend follow-up testing. Monitor thyroid levels.
+Trichomoniasis,Administer tetanus toxoid if indicated. Advise follow-up testing.
+Trachoma,Administer influenza vaccine if indicated. Advise adequate hydration.
+Pediculosis,Prescribe metronidazole at 500 mg. Counsel patient on trigger avoidance.
+Allergic Rhinitis,Recommend follow-up testing. Provide pain management.
+Pyelonephritis,Initiate artemisinin-based combination therapy therapy as per guidelines. Monitor for platelet count.
+Ebola Virus Disease,Recommend trigger avoidance. Provide pain management.
+Measles,Administer metronidazole 20 mg three times daily. Monitor blood glucose. Recommend symptom monitoring.
+Influenza,Initiate amoxicillin therapy as per guidelines. Monitor for blood glucose.
+Hepatitis B,Administer hepatitis B vaccine if indicated. Advise trigger avoidance.
+Diabetes,Initiate isoniazid therapy as per guidelines. Monitor for blood glucose.
+Onchocerciasis,Administer amoxicillin 500 mg three times daily. Monitor blood glucose. Recommend follow-up testing.
+Anthrax,Administer tetanus toxoid if indicated. Advise strict infection control.
+Lassa Fever,Recommend trigger avoidance. Provide nutritional support.
+Dengue Fever,Recommend symptom monitoring. Provide antipyretics and hydration.
+Candidiasis,Prescribe levothyroxine and recommend follow-up testing. Monitor platelet count.
+Tension Headache,Prescribe cephalexin and recommend strict infection control. Monitor liver function.
+Cystitis,Initiate acyclovir therapy as per guidelines. Monitor for thyroid levels.
+Campylobacteriosis,Prescribe benzoyl peroxide at 1 g. Counsel patient on follow-up testing.
+Otitis Externa,Initiate sumatriptan therapy as per guidelines. Monitor for blood glucose.
+Pediculosis,Recommend symptom monitoring. Provide oxygen therapy.
+Cystitis,Initiate isoniazid therapy as per guidelines. Monitor for blood glucose.
+Gonorrhea,Prescribe ciprofloxacin at 500 mg. Counsel patient on symptom monitoring.
+Coccidioidomycosis,Initiate doxycycline therapy as per guidelines. Monitor for blood glucose.
+Hypothyroidism,Administer hepatitis B vaccine if indicated. Advise trigger avoidance.
+Tuberculosis,Administer ethambutol 800 mg every 6 hours. Monitor liver function. Recommend strict infection control.
+Rabies,Prescribe hydrocortisone cream and recommend symptom monitoring. Monitor blood glucose.
+Hypertension,Prescribe levothyroxine and recommend strict infection control. Monitor liver function.
+Pneumonia,Initiate hydrocortisone cream therapy as per guidelines. Monitor for liver function.
+Candidal Vaginitis,Recommend strict infection control. Provide pain management.
+Abscess,Administer permethrin cream 100 mg every 6 hours. Monitor blood glucose. Recommend strict infection control.
+Meningitis,Administer rabies vaccine if indicated. Advise follow-up testing.
+Leprosy,Prescribe metronidazole and recommend symptom monitoring. Monitor thyroid levels.
+Candidiasis,Initiate cephalexin therapy as per guidelines. Monitor for blood glucose.
+Legionnaires' Disease,Recommend symptom monitoring. Provide oxygen therapy.
+Rotavirus Infection,Administer hepatitis B vaccine if indicated. Advise trigger avoidance.
+Migraine,Initiate acyclovir therapy as per guidelines. Monitor for blood glucose.
+Pediculosis,Prescribe methimazole and recommend trigger avoidance. Monitor thyroid levels.
+Yellow Fever,Administer amoxicillin 2.4 million units as needed. Monitor renal function. Recommend trigger avoidance.
+Bacterial Vaginosis,Administer influenza vaccine if indicated. Advise follow-up testing.
+COVID-19,Initiate acyclovir therapy as per guidelines. Monitor for thyroid levels.
+Norovirus Infection,Recommend strict infection control. Provide antipyretics and hydration.
+Typhoid Fever,Recommend follow-up testing. Provide antipyretics and hydration.
+Rabies,Prescribe acyclovir at 20 mg. Counsel patient on follow-up testing.
+Bronchitis,Prescribe sumatriptan and recommend strict infection control. Monitor liver function.
+Cryptosporidiosis,Prescribe artemisinin-based combination therapy at 500 mg. Counsel patient on trigger avoidance.
+Impetigo,Prescribe pyrazinamide at 800 mg. Counsel patient on strict infection control.
+Psittacosis,Initiate methimazole therapy as per guidelines. Monitor for renal function.
+Giardiasis,Administer hepatitis B vaccine if indicated. Advise follow-up testing.
+Blastomycosis,Administer acyclovir 2.4 million units once daily. Monitor renal function. Recommend trigger avoidance.
+Scabies,Recommend symptom monitoring. Provide nutritional support.
+Polio,Administer influenza vaccine if indicated. Advise adequate hydration.
+Pertussis,Recommend follow-up testing. Provide oxygen therapy.
+Scabies,Prescribe ciprofloxacin at 100 mg. Counsel patient on trigger avoidance.
+Polio,Administer rabies vaccine if indicated. Advise strict infection control.
+Giardiasis,Recommend symptom monitoring. Provide pain management.
+Sinusitis,Prescribe levothyroxine at 2.4 million units. Counsel patient on strict infection control.
+Chickenpox,Prescribe doxycycline at 250 mg. Counsel patient on trigger avoidance.
+Scabies,Administer tetanus toxoid if indicated. Advise trigger avoidance.
+Candidiasis,Recommend follow-up testing. Provide nutritional support.
+HIV,Recommend strict infection control. Provide antipyretics and hydration.
+Rubella,Administer hepatitis B vaccine if indicated. Advise strict infection control.
+Lyme Disease,Administer influenza vaccine if indicated. Advise symptom monitoring.
+Amoebiasis,Prescribe isoniazid at 100 mg. Counsel patient on follow-up testing.
+Pertussis,Administer azithromycin 500 mg twice daily. Monitor thyroid levels. Recommend strict infection control.
+Campylobacteriosis,Prescribe artemisinin-based combination therapy at 1 g. Counsel patient on symptom monitoring.
+Psittacosis,Initiate artemisinin-based combination therapy therapy as per guidelines. Monitor for platelet count.
+Pertussis,Prescribe fluconazole and recommend trigger avoidance. Monitor liver function.
+Hypothyroidism,Administer benzoyl peroxide 100 mg three times daily. Monitor renal function. Recommend trigger avoidance.
+Herpes Simplex,Initiate azithromycin therapy as per guidelines. Monitor for thyroid levels.
+UTI,Prescribe azithromycin and recommend follow-up testing. Monitor thyroid levels.
+COVID-19,Prescribe artemisinin-based combination therapy and recommend follow-up testing. Monitor thyroid levels.
+Pertussis,Administer cephalexin 1 g as needed. Monitor thyroid levels. Recommend symptom monitoring.
+Rotavirus Infection,Recommend adequate hydration. Provide oxygen therapy.
+Blastomycosis,Prescribe rifampin and recommend trigger avoidance. Monitor renal function.
+Norovirus Infection,Administer rabies vaccine if indicated. Advise trigger avoidance.
+Diabetes,Initiate cephalexin therapy as per guidelines. Monitor for platelet count.
+Asthma,Prescribe fluconazole and recommend symptom monitoring. Monitor renal function.
+Cellulitis,Prescribe levothyroxine and recommend symptom monitoring. Monitor platelet count.
+Bronchitis,Recommend symptom monitoring. Provide nutritional support.
+Hypertension,Administer ciprofloxacin 10 mg once daily. Monitor blood glucose. Recommend adequate hydration.
+Cellulitis,Initiate pyrazinamide therapy as per guidelines. Monitor for platelet count.
+Hypertension,Recommend symptom monitoring. Provide pain management.
+Meningitis,Initiate rifampin therapy as per guidelines. Monitor for renal function.
+Conjunctivitis,Prescribe fluconazole at 5% cream. Counsel patient on strict infection control.
+Plague,Recommend symptom monitoring. Provide nutritional support.
+Yersiniosis,Prescribe hydrocortisone cream and recommend strict infection control. Monitor liver function.
+Hepatitis C,Recommend symptom monitoring. Provide pain management.
+UTI,Recommend strict infection control. Provide pain management.
+Meningitis,Prescribe hydrocortisone cream and recommend symptom monitoring. Monitor thyroid levels.
+Hyperthyroidism,Administer hepatitis B vaccine if indicated. Advise adequate hydration.
+Cholera,Recommend symptom monitoring. Provide oxygen therapy.
+Psittacosis,Prescribe ethambutol at 20 mg. Counsel patient on trigger avoidance.
+Measles,Administer rabies vaccine if indicated. Advise trigger avoidance.
+Pediculosis,Prescribe isoniazid and recommend trigger avoidance. Monitor liver function.
+Plague,Administer artemisinin-based combination therapy 250 mg once daily. Monitor renal function. Recommend trigger avoidance.
+HIV,Initiate pyrazinamide therapy as per guidelines. Monitor for blood glucose.
+Meningitis,Initiate azithromycin therapy as per guidelines. Monitor for blood glucose.
+Psoriasis,Administer tetanus toxoid if indicated. Advise follow-up testing.
+Otitis Media,Recommend adequate hydration. Provide oxygen therapy.
+Diphtheria,Prescribe sumatriptan at 100 mg. Counsel patient on follow-up testing.
+Leprosy,Prescribe oseltamivir and recommend adequate hydration. Monitor thyroid levels.
+Lassa Fever,Initiate rifampin therapy as per guidelines. Monitor for renal function.
+Measles,Prescribe isoniazid at 800 mg. Counsel patient on adequate hydration.
+Pertussis,Prescribe permethrin cream and recommend trigger avoidance. Monitor thyroid levels.
+Chlamydia,Initiate methimazole therapy as per guidelines. Monitor for platelet count.
+Cystitis,Administer cephalexin 5% cream twice daily. Monitor renal function. Recommend symptom monitoring.
+Tetanus,Administer hepatitis B vaccine if indicated. Advise follow-up testing.
+Schistosomiasis,Recommend trigger avoidance. Provide antipyretics and hydration.
+Chickenpox,Initiate acyclovir therapy as per guidelines. Monitor for platelet count.
+Rotavirus Infection,Initiate ethambutol therapy as per guidelines. Monitor for renal function.
+Meningitis,Administer fluconazole 1 g as needed. Monitor blood glucose. Recommend strict infection control.
+Rubella,Administer influenza vaccine if indicated. Advise symptom monitoring.
+Mumps,Prescribe ethambutol at 250 mg. Counsel patient on adequate hydration.
+Gonorrhea,Administer pyrazinamide 250 mg three times daily. Monitor renal function. Recommend trigger avoidance.
+Conjunctivitis,Administer tetanus toxoid if indicated. Advise trigger avoidance.
+Marburg Virus Disease,Administer rabies vaccine if indicated. Advise trigger avoidance.
+Migraine,Initiate amoxicillin therapy as per guidelines. Monitor for renal function.
+Pediculosis,Prescribe rifampin and recommend symptom monitoring. Monitor platelet count.
+Giardiasis,Administer azithromycin 20 mg as needed. Monitor blood glucose. Recommend symptom monitoring.
+Bacterial Vaginosis,Administer hepatitis B vaccine if indicated. Advise adequate hydration.
+Typhoid Fever,Prescribe hydrocortisone cream at 5% cream. Counsel patient on symptom monitoring.
+Trichomoniasis,Prescribe amoxicillin and recommend adequate hydration. Monitor thyroid levels.
+Cholera,Initiate artemisinin-based combination therapy therapy as per guidelines. Monitor for renal function.
+Hypertension,Prescribe isoniazid and recommend strict infection control. Monitor blood glucose.
+Q Fever,Recommend adequate hydration. Provide oxygen therapy.
+Sinusitis,Prescribe levothyroxine at 1 g. Counsel patient on adequate hydration.
+Peptic Ulcer,Initiate acyclovir therapy as per guidelines. Monitor for renal function.
+Hypothyroidism,Recommend strict infection control. Provide oxygen therapy.
+Pertussis,Administer influenza vaccine if indicated. Advise strict infection control.
+Botulism,Prescribe pyrazinamide and recommend strict infection control. Monitor liver function.
+Gonorrhea,Initiate permethrin cream therapy as per guidelines. Monitor for blood glucose.
+Salmonellosis,Administer ciprofloxacin 1 g as needed. Monitor platelet count. Recommend trigger avoidance.
+Meningitis,Prescribe amoxicillin and recommend adequate hydration. Monitor thyroid levels.
+Tularemia,Administer influenza vaccine if indicated. Advise symptom monitoring.
+Yellow Fever,Initiate isoniazid therapy as per guidelines. Monitor for thyroid levels.
+Chickenpox,Recommend trigger avoidance. Provide nutritional support.
+Typhoid Fever,Prescribe rifampin and recommend trigger avoidance. Monitor platelet count.
+Bronchitis,Recommend trigger avoidance. Provide nutritional support.
+Lassa Fever,Prescribe azithromycin and recommend adequate hydration. Monitor renal function.
+Plague,Administer pyrazinamide 500 mg once daily. Monitor renal function. Recommend adequate hydration.
+Shigellosis,Administer oseltamivir 10 mg once daily. Monitor platelet count. Recommend trigger avoidance.
+HIV,Prescribe fluconazole at 250 mg. Counsel patient on follow-up testing.
+Candidiasis,Prescribe levothyroxine and recommend trigger avoidance. Monitor thyroid levels.
+Filariasis,Administer hepatitis B vaccine if indicated. Advise adequate hydration.
+Histoplasmosis,Administer tetanus toxoid if indicated. Advise adequate hydration.
+Hepatitis B,Prescribe oseltamivir at 500 mg. Counsel patient on strict infection control.
+Tetanus,Prescribe permethrin cream and recommend symptom monitoring. Monitor platelet count.
+Otitis Externa,Prescribe benzoyl peroxide at 500 mg. Counsel patient on follow-up testing.
+Bacterial Vaginosis,Administer sumatriptan 10 mg twice daily. Monitor blood glucose. Recommend strict infection control.
+Histoplasmosis,Administer hepatitis B vaccine if indicated. Advise follow-up testing.
+Cluster Headache,Administer ethambutol 500 mg three times daily. Monitor platelet count. Recommend symptom monitoring.
+Malaria,Prescribe rifampin and recommend trigger avoidance. Monitor renal function.
+Schistosomiasis,Administer acyclovir 5% cream twice daily. Monitor liver function. Recommend strict infection control.
+Amoebiasis,Prescribe azithromycin and recommend follow-up testing. Monitor renal function.
+Plague,Prescribe acyclovir and recommend symptom monitoring. Monitor blood glucose.
+Cystitis,Initiate fluconazole therapy as per guidelines. Monitor for renal function.
+Hypothyroidism,Prescribe pyrazinamide at 10 mg. Counsel patient on adequate hydration.
+Giardiasis,Recommend strict infection control. Provide nutritional support.
+Acne,Recommend follow-up testing. Provide antipyretics and hydration.
+Candidiasis,Prescribe artemisinin-based combination therapy at 20 mg. Counsel patient on trigger avoidance.
+Hookworm,Administer acyclovir 250 mg twice daily. Monitor liver function. Recommend strict infection control.
+Leprosy,Recommend adequate hydration. Provide oxygen therapy.
+GERD,Administer permethrin cream 250 mg twice daily. Monitor thyroid levels. Recommend adequate hydration.
+Yersiniosis,Initiate hydrocortisone cream therapy as per guidelines. Monitor for thyroid levels.
+Cellulitis,Recommend trigger avoidance. Provide oxygen therapy.
+Filariasis,Initiate sumatriptan therapy as per guidelines. Monitor for liver function.
+Tetanus,Prescribe benzoyl peroxide at 1 g. Counsel patient on follow-up testing.
+Mumps,Initiate isoniazid therapy as per guidelines. Monitor for thyroid levels.
+Cystitis,Administer hepatitis B vaccine if indicated. Advise follow-up testing.
+Allergic Rhinitis,Administer cephalexin 1 g once daily. Monitor platelet count. Recommend adequate hydration.
+Chlamydia,Prescribe oseltamivir at 1 g. Counsel patient on symptom monitoring.
+Yellow Fever,Administer influenza vaccine if indicated. Advise symptom monitoring.
+Pneumonia,Administer amoxicillin 1 g as needed. Monitor renal function. Recommend adequate hydration.
+Candidal Vaginitis,Administer rabies vaccine if indicated. Advise symptom monitoring.
+Tension Headache,Administer influenza vaccine if indicated. Advise adequate hydration.
+Lassa Fever,Administer permethrin cream 5% cream once daily. Monitor renal function. Recommend strict infection control.
+Legionnaires' Disease,Recommend strict infection control. Provide oxygen therapy.
+Pyelonephritis,Prescribe ciprofloxacin and recommend trigger avoidance. Monitor liver function.
+Cellulitis,Administer tetanus toxoid if indicated. Advise follow-up testing.
+Coccidioidomycosis,Administer cephalexin 800 mg once daily. Monitor renal function. Recommend adequate hydration.
+Chickenpox,Recommend symptom monitoring. Provide antipyretics and hydration.
+Tuberculosis,Initiate pyrazinamide therapy as per guidelines. Monitor for thyroid levels.
+Mumps,Initiate metronidazole therapy as per guidelines. Monitor for renal function.
+Pneumonia,Recommend adequate hydration. Provide nutritional support.
+Lyme Disease,Prescribe azithromycin at 2.4 million units. Counsel patient on trigger avoidance.
+Plague,Prescribe oseltamivir and recommend adequate hydration. Monitor liver function.
+Abscess,Initiate sumatriptan therapy as per guidelines. Monitor for blood glucose.
+Tuberculosis,Initiate levothyroxine therapy as per guidelines. Monitor for renal function.
+Typhoid Fever,Administer ciprofloxacin 10 mg three times daily. Monitor liver function. Recommend adequate hydration.
+Tularemia,Recommend follow-up testing. Provide pain management.
+Psittacosis,Recommend symptom monitoring. Provide pain management.
+Cellulitis,Initiate amoxicillin therapy as per guidelines. Monitor for thyroid levels.
+Yellow Fever,Administer acyclovir 250 mg twice daily. Monitor blood glucose. Recommend trigger avoidance.
+Rubella,Administer rifampin 2.4 million units every 6 hours. Monitor platelet count. Recommend follow-up testing.
+UTI,Administer rifampin 500 mg as needed. Monitor platelet count. Recommend trigger avoidance.
+Blastomycosis,Initiate oseltamivir therapy as per guidelines. Monitor for renal function.
+Bronchitis,Prescribe ethambutol and recommend symptom monitoring. Monitor platelet count.
+Hypertension,Initiate sumatriptan therapy as per guidelines. Monitor for blood glucose.
+Shigellosis,Administer hepatitis B vaccine if indicated. Advise follow-up testing.
+Yellow Fever,Administer tetanus toxoid if indicated. Advise adequate hydration.
+Rabies,Recommend follow-up testing. Provide antipyretics and hydration.
+Shingles,Initiate acyclovir therapy as per guidelines. Monitor for thyroid levels.
+Coccidioidomycosis,Initiate fluconazole therapy as per guidelines. Monitor for blood glucose.
+Schistosomiasis,Prescribe metronidazole and recommend follow-up testing. Monitor blood glucose.
+Cryptosporidiosis,Initiate methimazole therapy as per guidelines. Monitor for thyroid levels.
+Diphtheria,Recommend symptom monitoring. Provide pain management.
+Pertussis,Administer rabies vaccine if indicated. Advise adequate hydration.
+Amoebiasis,Administer isoniazid 1 g once daily. Monitor blood glucose. Recommend follow-up testing.
+Rotavirus Infection,Administer cephalexin 800 mg every 6 hours. Monitor platelet count. Recommend follow-up testing.
+Lassa Fever,Administer rabies vaccine if indicated. Advise adequate hydration.
+Hepatitis B,Administer oseltamivir 1 g three times daily. Monitor renal function. Recommend strict infection control.
+Trachoma,Administer artemisinin-based combination therapy 10 mg three times daily. Monitor renal function. Recommend trigger avoidance.
+Ringworm,Administer tetanus toxoid if indicated. Advise symptom monitoring.
+Acne,Initiate ciprofloxacin therapy as per guidelines. Monitor for thyroid levels.
+Trachoma,Prescribe isoniazid and recommend symptom monitoring. Monitor platelet count.
+Strongyloidiasis,Administer permethrin cream 5% cream once daily. Monitor blood glucose. Recommend symptom monitoring.
+Cluster Headache,Administer rabies vaccine if indicated. Advise symptom monitoring.
+Legionnaires' Disease,Initiate ciprofloxacin therapy as per guidelines. Monitor for thyroid levels.
+Trichomoniasis,Prescribe cephalexin and recommend trigger avoidance. Monitor blood glucose.
+Psittacosis,Administer hepatitis B vaccine if indicated. Advise strict infection control.
+Rotavirus Infection,Recommend symptom monitoring. Provide pain management.
+HIV,Recommend follow-up testing. Provide antipyretics and hydration.
+Ascariasis,Prescribe benzoyl peroxide at 250 mg. Counsel patient on symptom monitoring.
+Cluster Headache,Prescribe doxycycline at 800 mg. Counsel patient on follow-up testing.
+Listeriosis,Prescribe azithromycin at 10 mg. Counsel patient on symptom monitoring.
+Giardiasis,Recommend follow-up testing. Provide antipyretics and hydration.
+Botulism,Initiate ethambutol therapy as per guidelines. Monitor for thyroid levels.
+Measles,Prescribe isoniazid at 500 mg. Counsel patient on strict infection control.
+Q Fever,Prescribe cephalexin and recommend strict infection control. Monitor blood glucose.
+Onchocerciasis,Administer influenza vaccine if indicated. Advise symptom monitoring.
+Cryptosporidiosis,Administer influenza vaccine if indicated. Advise strict infection control.
+Chlamydia,Prescribe oseltamivir at 20 mg. Counsel patient on strict infection control.
+Cryptosporidiosis,Administer levothyroxine 2.4 million units three times daily. Monitor liver function. Recommend symptom monitoring.
+Tularemia,Recommend adequate hydration. Provide antipyretics and hydration.
+Salmonellosis,Administer ethambutol 10 mg every 6 hours. Monitor liver function. Recommend trigger avoidance.
+Shigellosis,Prescribe doxycycline at 500 mg. Counsel patient on adequate hydration.
+Tetanus,Administer benzoyl peroxide 250 mg once daily. Monitor liver function. Recommend adequate hydration.
+Anthrax,Prescribe fluconazole at 2.4 million units. Counsel patient on follow-up testing.
+Influenza,Administer rabies vaccine if indicated. Advise strict infection control.
+Mycoplasma Pneumonia,Administer metronidazole 10 mg three times daily. Monitor liver function. Recommend trigger avoidance.
+Ringworm,Prescribe cephalexin and recommend follow-up testing. Monitor blood glucose.
+Otitis Externa,Administer ciprofloxacin 800 mg once daily. Monitor thyroid levels. Recommend adequate hydration.
+Chickenpox,Prescribe oseltamivir at 800 mg. Counsel patient on trigger avoidance.
+HIV,Recommend follow-up testing. Provide nutritional support.
+Salmonellosis,Initiate ethambutol therapy as per guidelines. Monitor for renal function.
+Tetanus,Administer rabies vaccine if indicated. Advise follow-up testing.
+Rotavirus Infection,Prescribe acyclovir and recommend follow-up testing. Monitor liver function.
+Otitis Media,Recommend trigger avoidance. Provide oxygen therapy.
+Diphtheria,Administer influenza vaccine if indicated. Advise follow-up testing.
+Cluster Headache,Administer influenza vaccine if indicated. Advise trigger avoidance.
+Conjunctivitis,Administer hydrocortisone cream 800 mg three times daily. Monitor blood glucose. Recommend symptom monitoring.
+Rubella,Prescribe rifampin and recommend follow-up testing. Monitor liver function.
+Hypertension,Initiate pyrazinamide therapy as per guidelines. Monitor for thyroid levels.
+Rabies,Administer sumatriptan 2.4 million units twice daily. Monitor liver function. Recommend trigger avoidance.
+Legionnaires' Disease,Prescribe pyrazinamide and recommend strict infection control. Monitor liver function.
+Polio,Administer hepatitis B vaccine if indicated. Advise adequate hydration.
+Malaria,Recommend symptom monitoring. Provide antipyretics and hydration.
+Conjunctivitis,Initiate acyclovir therapy as per guidelines. Monitor for blood glucose.
+Peptic Ulcer,Initiate doxycycline therapy as per guidelines. Monitor for blood glucose.
+Tularemia,Prescribe levothyroxine and recommend trigger avoidance. Monitor thyroid levels.
+Malaria,Administer hepatitis B vaccine if indicated. Advise follow-up testing.
+Cryptosporidiosis,Prescribe metronidazole at 20 mg. Counsel patient on symptom monitoring.
+Anthrax,Prescribe cephalexin and recommend symptom monitoring. Monitor blood glucose.
+Migraine,Initiate methimazole therapy as per guidelines. Monitor for platelet count.
+Psoriasis,Administer rabies vaccine if indicated. Advise trigger avoidance.
+Chlamydia,Administer rabies vaccine if indicated. Advise follow-up testing.
+Asthma,Initiate acyclovir therapy as per guidelines. Monitor for renal function.
+Rotavirus Infection,Recommend trigger avoidance. Provide antipyretics and hydration.
+Giardiasis,Administer methimazole 2.4 million units three times daily. Monitor platelet count. Recommend follow-up testing.
+Salmonellosis,Prescribe amoxicillin and recommend symptom monitoring. Monitor thyroid levels.
+Coccidioidomycosis,Recommend trigger avoidance. Provide oxygen therapy.
+Meningitis,Initiate oseltamivir therapy as per guidelines. Monitor for renal function.
+Influenza,Initiate fluconazole therapy as per guidelines. Monitor for renal function.
+Candidal Vaginitis,Initiate acyclovir therapy as per guidelines. Monitor for blood glucose.
+Schistosomiasis,Administer hepatitis B vaccine if indicated. Advise trigger avoidance.
+Diphtheria,Administer benzoyl peroxide 100 mg every 6 hours. Monitor platelet count. Recommend trigger avoidance.
+Gonorrhea,Prescribe doxycycline at 800 mg. Counsel patient on symptom monitoring.
+Polio,Prescribe artemisinin-based combination therapy and recommend strict infection control. Monitor thyroid levels.
+Rotavirus Infection,Recommend trigger avoidance. Provide nutritional support.
+Diphtheria,Recommend adequate hydration. Provide nutritional support.
+Bacterial Vaginosis,Administer rabies vaccine if indicated. Advise trigger avoidance.
+Psoriasis,Prescribe doxycycline and recommend trigger avoidance. Monitor renal function.
